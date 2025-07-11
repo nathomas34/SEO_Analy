@@ -815,4 +815,4 @@ Pour signaler un bug, veuillez inclure :
 
 ---
 
-*Documentation générée le {{ date }} - Version 1.0.0*
+*Documentation générée le 10/07/2025 par nathan Piraux - Version 1.0.0*
