@@ -1236,4 +1236,4 @@ SEOScoreCard.propTypes = {
 
 ---
 
-*Documentation des composants générée le {{ date }} - Version 1.0.0*
+*Documentation des composants générée le 10/07/2025 par nathan Piraux - Version 1.0.0*
