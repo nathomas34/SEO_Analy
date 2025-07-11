@@ -639,4 +639,4 @@ extensibleAnalyzer.addAnalyzer(new SchemaAnalyzer());
 
 ---
 
-*Documentation API générée le {{ date }} - Version 1.0.0*
+*Documentation API générée le 10/07/2025 par nathan Piraux - Version 1.0.0*
