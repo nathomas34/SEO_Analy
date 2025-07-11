@@ -806,13 +806,6 @@ Pour signaler un bug, veuillez inclure :
 2. Création d'une branche feature
 3. Tests des modifications
 4. Pull request avec description détaillée
-
-### Contact
-
-- **Email** : support@seoanalyzer.pro
-- **GitHub** : [Repository URL]
-- **Documentation** : [Docs URL]
-
 ---
 
 *Documentation générée le 10/07/2025 par nathan Piraux - Version 1.0.0*
