@@ -829,4 +829,4 @@ const MyComponent = () => {
 
 ---
 
-*Guide de dépannage généré le {{ date }} - Version 1.0.0*
+*Guide de dépannage généré le 10/07/2025 par nathan Piraux - Version 1.0.0*
